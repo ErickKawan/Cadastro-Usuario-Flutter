@@ -1,0 +1,26 @@
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+coverage/
+
+# IDE e sistema
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Configurações locais e credenciais
+**/local.properties
+**/key.properties
+*.jks
+*.keystore
+
+# Arquivos de sistema gerados para projetos Flutter
+**/Flutter/Generated.xcconfig
+**/Flutter/flutter_export_environment.sh
+**/Flutter/ephemeral/
+**/GeneratedPluginRegistrant.java
